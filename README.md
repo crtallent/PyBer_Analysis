@@ -57,3 +57,7 @@ The following is indicated by this data:
 * The average fare per driver was $16.57 in urban areas; however, this amount nearly doubled in suburban areas, and tripled in rural areas.
 
 ![total_fare_by_city_type](https://github.com/crtallent/PyBer_Analysis/blob/main/Analysis/total_fare.jpg)
+
+## PyBer Summary
+
+Upon analysis of this data, there are some areas that could be looked at further.  One recommendation would be to look at urban city fare amounts, as the average fare per ride and per driver are much lower than in suburban and rural areas.  Another recommendation would be to look into getting more drivers in underserved areas, such as suburban and rural areas.  Finally, since fares are much higher in rural areas than in suburban and urban areas, decreasing fares may increase the amount of rides completed.
