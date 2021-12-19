@@ -44,3 +44,6 @@ ride_percents
 - Software: Python 3.7.11, Jupyter NOtebook 7.29.0
 
 ## PyBer Analysis Results
+Upon analyzing the data, there are many differences between the three city types.  As one might expect with differing population levels between rural, suburban, and urban city types, the total rides for the urban cities was signifantly higher than both the suburban and rural areas.  This is also true of the number of total drivers and and total fares. However, the average fare per ride and per driver were lower in urban areas than in suburban and rural areas.
+
+![pyber_summary_df](https://github.com/crtallent/PyBer_Analysis/blob/main/Analysis/summary.png)
