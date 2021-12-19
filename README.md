@@ -32,3 +32,8 @@ The goal is to determine how the data differs according to city type, so that th
 
 
 ![Fares_per_city_type](https://github.com/crtallent/PyBer_Analysis/blob/main/Analysis/Fig5.png)
+
+```
+ride_percents = 100 * pyber_data_df.groupby(["type"]).count()["ride_id"] / pyber_data_df["ride_id"].count()
+ride_percents
+```
