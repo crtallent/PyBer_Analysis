@@ -9,4 +9,16 @@ For this project, I was tasked with creating a summary DataFrame of PyBer's ride
 
 ![Ride_Sharing_Data](https://github.com/crtallent/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
 The goal is to determine how the data differs according to city type, so that the decision-makers at PyBer can determine if they need to make strategic changes on how the company operates.  
