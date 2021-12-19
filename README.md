@@ -21,4 +21,14 @@ For this project, I was tasked with creating a summary DataFrame of PyBer's ride
 
 
 
-The goal is to determine how the data differs according to city type, so that the decision-makers at PyBer can determine if they need to make strategic changes on how the company operates.  
+The goal is to determine how the data differs according to city type, so that the decision-makers at PyBer can determine if they need to make strategic changes on how the company operates.  Additional data that was analyzed prior to this project includes:
+
+* Number of rides per city
+* Number of drivers in each city
+* Date and time of fares in each city
+* Mean, median and mode for ride counts per city type
+* Average (median) fares per city type
+
+
+
+![Fares_per_city_type](https://github.com/crtallent/PyBer_Analysis/blob/main/Analysis/Fig5.png)
