@@ -37,3 +37,10 @@ The goal is to determine how the data differs according to city type, so that th
 ride_percents = 100 * pyber_data_df.groupby(["type"]).count()["ride_id"] / pyber_data_df["ride_id"].count()
 ride_percents
 ```
+
+
+## Resources
+- Data Sources: city_data_csv, ride_data_csv
+- Software: Python 3.7.11, Jupyter NOtebook 7.29.0
+
+## PyBer Analysis Results
