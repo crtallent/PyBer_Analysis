@@ -47,3 +47,13 @@ ride_percents
 Upon analyzing the data, there are many differences between the three city types.  As one might expect with differing population levels between rural, suburban, and urban city types, the total rides for the urban cities was signifantly higher than both the suburban and rural areas.  This is also true of the number of total drivers and and total fares. However, the average fare per ride and per driver were lower in urban areas than in suburban and rural areas.
 
 ![pyber_summary_df](https://github.com/crtallent/PyBer_Analysis/blob/main/Analysis/summary.png)
+
+The following is indicated by this data:
+
+* There were slightly over 2 1/2 times more rides completed in urban cities than suburban cities, and 5 times more rides completed in suburban cities than rural cities
+* There were roughly 5 times more drivers in urban cities than suburban cities, and 6 times more drivers in suburban cities than rural cities
+* The total fares earned were roughly double in urban cities than in suburban cities, and roughly 4 1/2 times more than total fares in rural cities.
+* The average fare per ride was $24.53 in urban areas; however, this amount increased in suburban areas with $30.97, and in rural areas with $34.62.
+* The average fare per driver was $16.57 in urban areas; however, this amount nearly doubled in suburban areas, and tripled in rural areas.
+
+![total_fare_by_city_type](https://github.com/crtallent/PyBer_Analysis/blob/main/Analysis/total_fare.jpg)
